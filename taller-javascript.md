@@ -147,7 +147,7 @@ Las reglas de juego serán las siguientes:
     Salida:     [ "Arroz", "Tomate" ]
     ```
 
-9. Formatea los datos de la lista
+9.   **Valor: 0.25** Formatea los datos de la lista
     Imprime la lista en la consola, el resultado final debe ser el siguiente:
 
     **Valor: 0.25**
