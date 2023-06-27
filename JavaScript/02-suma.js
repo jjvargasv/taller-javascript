@@ -27,7 +27,7 @@ function sumaNumeros(lista) {
         suma += lista[i];
       }
       return suma;
-    }
+    }[]
 
 }
 
