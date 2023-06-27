@@ -150,7 +150,7 @@ Las reglas de juego serán las siguientes:
 9.   **Valor: 0.25** Formatea los datos de la lista
     Imprime la lista en la consola, el resultado final debe ser el siguiente:
 
-    **Valor: 0.25**
+    
 
     ```JavaScript
     const mat = [
