@@ -26,7 +26,7 @@ function determinarParidad(lista) {
       lista = [0];
     }
   
-    var suma = lista.reduce(function (a, b) {
+    let suma = lista.reduce(function (a, b) {
       return a + b;
     });
   

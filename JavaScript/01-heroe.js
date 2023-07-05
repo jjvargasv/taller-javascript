@@ -9,8 +9,8 @@ function Balas(balas) {
     let cuantasBalas = Number (prompt('cuantas balas vas a poner '));
     return cuantasBalas
 }
- let dragones = Balas()
- if (dragones >= 4){
+ let balasdragones = Balas()
+ if (balasdragones >= 4){
     console.log(true);
  }
  else{

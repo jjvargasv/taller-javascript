@@ -31,6 +31,6 @@ function sumaNumeros(lista) {
 
 }
 
-let Entrada= [1, 5.2, 4, 0, -1];
+let Entrada= [1, 5.2, 4, 0, -1 ];
 let lista =sumaNumeros(Entrada);
 console.log(lista);

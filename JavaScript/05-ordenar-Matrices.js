@@ -26,7 +26,7 @@
 
 
   function combinarListas(lista1, lista2) {
-    var resultado = lista1.concat(lista2);
+    let resultado = lista1.concat(lista2);
     resultado.sort(function(a, b) {
       return a - b;
     });
@@ -37,7 +37,7 @@
   }
   
   
-  console.log(combinarListas([1, 2, 3, 4, 5, 1, 12], []));
+  console.log(combinarListas([1, 25, 30, 4, 5, 1, 12], []));
  
   
   
